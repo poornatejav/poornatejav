@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Poorna%20Teja%20Vengala-111217?style=for-the-badge&labelColor=0f1116&color=1b1f2a" />
+<img src="https://img.shields.io/badge/Poorna%20Teja%20Vengala-0b0f14?style=for-the-badge&labelColor=0b0f14&color=151a22" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend%20Engineer-111217?style=flat-square&labelColor=0f1116&color=1b1f2a" />
-<img src="https://img.shields.io/badge/Go%20Microservices-111217?style=flat-square&labelColor=0f1116&color=1b1f2a" />
-<img src="https://img.shields.io/badge/Cloud--Native%20Systems-111217?style=flat-square&labelColor=0f1116&color=1b1f2a" />
+<img src="https://img.shields.io/badge/Backend%20Engineer-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
+<img src="https://img.shields.io/badge/Go%20Microservices-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
+<img src="https://img.shields.io/badge/Cloud--Native%20Systems-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
 
 </div>
 
@@ -14,23 +14,24 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TECH%20(FOCUSED)-111217?style=for-the-badge&labelColor=0f1116&color=202530" />
+<img src="https://img.shields.io/badge/TECH%20(FOCUSED)-0b0f14?style=for-the-badge&labelColor=0b0f14&color=1a202b" />
 
 <br/>
 
-![Go](https://img.shields.io/badge/Go-111217?style=flat-square&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-111217?style=flat-square&logo=grpc&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111217?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111217?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-111217?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-111217?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-111217?style=flat-square&logo=jenkins&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-111217?style=flat-square&logo=datadog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-111217?style=flat-square&logo=prometheus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111217?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111217?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111217?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111217?style=flat-square&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/Go-0b0f14?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-0b0f14?style=flat-square&logo=grpc&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0b0f14?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0b0f14?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-0b0f14?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0b0f14?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-0b0f14?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-0b0f14?style=flat-square&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-0b0f14?style=flat-square&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-0b0f14?style=flat-square&logo=prometheus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0b0f14?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0f14?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0f14?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0b0f14?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
@@ -38,13 +39,26 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FEATURED-111217?style=for-the-badge&labelColor=0f1116&color=202530" />
+<img src="https://img.shields.io/badge/FEATURED-0b0f14?style=for-the-badge&labelColor=0b0f14&color=1a202b" />
 
 <br/>
 
-**KubeSolv — Autonomous Kubernetes Operator**  
-Detects incidents, explains root cause, and auto‑heals before users feel it.
+<img src="https://img.shields.io/badge/KubeSolv-0b0f14?style=for-the-badge&labelColor=0b0f14&color=1a202b" />
+<br/>
 
-[Portfolio](https://poornatejav.github.io) · [KubeSolv](https://poornatejav.github.io/kubesolv.html) · [LinkedIn](https://www.linkedin.com/in/tejavengala)
+<img src="https://img.shields.io/badge/Autonomous%20Kubernetes%20Operator-111217?style=flat-square&labelColor=0b0f14&color=111217" />
+<img src="https://img.shields.io/badge/Detects%20incidents%20·%20Explains%20root%20cause%20·%20Auto‑heals-111217?style=flat-square&labelColor=0b0f14&color=111217" />
+
+<br/><br/>
+
+<a href="https://poornatejav.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://poornatejav.github.io/kubesolv.html">
+  <img src="https://img.shields.io/badge/KubeSolv-0b0f14?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tejavengala">
+  <img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
