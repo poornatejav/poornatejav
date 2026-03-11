@@ -1,34 +1,30 @@
-# Teja Vengala
+<div align="center">
 
-Backend engineer (4+ years) building high‑performance Go microservices, reliable APIs, and cloud‑native systems.
+# Poorna Teja Vengala
 
-## Focus
-- Go microservices · gRPC · API reliability  
-- Observability-first engineering (logs, metrics, traces, postmortems)  
-- Kubernetes · Terraform · AWS  
+**Backend Engineer · Go Microservices · Cloud‑Native Systems**
 
-## Highlights
-- Reduced API latency by ~40% across core services  
-- Migrated inter‑service comms to gRPC/Protobuf (−30% latency/bandwidth)  
-- Built concurrent Go pipelines for nested JSON (−40% processing time)  
-- 99.9% uptime with ELB/AMI provisioning + autoscaling  
-- 30% faster releases via Jenkins CI/CD automation  
+Building high‑performance services with reliability you can measure.
 
-## Tech
-![Go](https://img.shields.io/badge/Go-101113?style=flat-square&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-101113?style=flat-square&logo=grpc&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-101113?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-101113?style=flat-square&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-101113?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-101113?style=flat-square&logo=jenkins&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-101113?style=flat-square&logo=datadog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-101113?style=flat-square&logo=prometheus&logoColor=white)
+<br/>
 
-## Featured
-- KubeSolv — Autonomous Kubernetes intelligence  
-  Portfolio: https://poornatejav.github.io  
-  KubeSolv: https://poornatejav.github.io/kubesolv.html  
+**Highlights**  
+API latency −40% · gRPC/Protobuf −30% latency/bandwidth · 99.9% uptime · CI/CD −30% release time
 
-## Contact
-LinkedIn: https://www.linkedin.com/in/tejavengala  
-GitHub: https://github.com/poornatejav
+<br/>
+
+**Tech**  
+Go · gRPC · Kubernetes · AWS · Terraform · Jenkins · Datadog · Prometheus
+
+<br/>
+
+**Featured**  
+KubeSolv — Autonomous Kubernetes intelligence  
+[Portfolio](https://poornatejav.github.io) · [KubeSolv](https://poornatejav.github.io/kubesolv.html)
+
+<br/>
+
+**Contact**  
+[LinkedIn](https://www.linkedin.com/in/tejavengala) · [GitHub](https://github.com/poornatejav)
+
+</div>
