@@ -5,11 +5,11 @@
 <img src="https://img.shields.io/badge/Backend%20Engineer%20%7C%20Go%20Specialist-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
 <img src="https://img.shields.io/badge/High--Performance%20Microservices%20at%20Scale-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
 <img src="https://img.shields.io/badge/Cloud--Native%20Reliability%20Engineer-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
-
-<br/><br/>
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-0b0f14?style=flat-square&labelColor=0b0f14&color=0b0f14" />
+<br/>
 <img src="https://img.shields.io/badge/TECH-0b0f14?style=for-the-badge&labelColor=0b0f14&color=1a202b" />
 <br/>
-
 ![Go](https://img.shields.io/badge/Go-0b0f14?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-0b0f14?style=flat-square&logo=grpc&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0b0f14?style=flat-square&logo=kubernetes&logoColor=white)
@@ -24,7 +24,9 @@
 ![Redis](https://img.shields.io/badge/Redis-0b0f14?style=flat-square&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0b0f14?style=flat-square&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-0b0f14?style=flat-square&logo=googlecloud&logoColor=white)
-
+<br/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-0b0f14?style=flat-square&labelColor=0b0f14&color=0b0f14" />
+<br/>
 <a href="https://poornatejav.github.io">
   <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
