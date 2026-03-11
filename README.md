@@ -1,20 +1,33 @@
+<div align="center">
+
 # Poorna Teja Vengala
+**Backend Engineer · Go Microservices · Cloud‑Native Systems**
 
-Backend engineer (4+ years) building high‑performance Go microservices, reliable APIs, and cloud‑native systems.
+Reliable systems at scale. Latency, correctness, uptime.
 
-## Focus
-- Go microservices, gRPC, and API reliability  
-- Observability‑first engineering (logs, metrics, traces, postmortems)  
-- Kubernetes · Terraform · AWS  
+[Portfolio](https://poornatejav.github.io) · [KubeSolv](https://poornatejav.github.io/kubesolv.html) · [LinkedIn](https://www.linkedin.com/in/tejavengala)
+
+</div>
+
+---
+
+## Snapshot
+| Focus | Impact | Stack |
+|---|---|---|
+| Go microservices, API reliability, cloud‑native ops | Latency −40% · gRPC/Protobuf −30% · 99.9% uptime | Go · gRPC · Kubernetes · AWS · Terraform |
+
+---
 
 ## Selected Impact
-- Reduced API latency by ~40% across core services  
-- gRPC/Protobuf migration cut latency & bandwidth ~30%  
-- Concurrent Go pipelines cut JSON processing time ~40%  
-- 99.9% uptime through autoscaling + ELB/AMI provisioning  
-- CI/CD automation reduced release cycles ~30%  
+- **API performance:** −40% latency across core services  
+- **gRPC/Protobuf:** −30% latency & bandwidth  
+- **Concurrency:** −40% JSON processing time  
+- **Reliability:** 99.9% uptime via autoscaling + ELB/AMI  
+- **CI/CD:** release cycles −30%  
 
-## Tech
+---
+
+## Tech (Focused)
 ![Go](https://img.shields.io/badge/Go-111217?style=flat-square&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-111217?style=flat-square&logo=grpc&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111217?style=flat-square&logo=kubernetes&logoColor=white)
@@ -24,10 +37,16 @@ Backend engineer (4+ years) building high‑performance Go microservices, reliab
 ![Datadog](https://img.shields.io/badge/Datadog-111217?style=flat-square&logo=datadog&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-111217?style=flat-square&logo=prometheus&logoColor=white)
 
+---
+
 ## Featured
-**KubeSolv** — Autonomous Kubernetes intelligence  
-Portfolio: https://poornatejav.github.io  
-KubeSolv: https://poornatejav.github.io/kubesolv.html  
+**KubeSolv — Autonomous Kubernetes intelligence**  
+Detects incidents, explains root cause, and auto‑heals before users feel it.  
+
+[Live Portfolio](https://poornatejav.github.io)  
+[KubeSolv](https://poornatejav.github.io/kubesolv.html)
+
+---
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/tejavengala  
