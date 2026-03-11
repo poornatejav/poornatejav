@@ -1,16 +1,34 @@
-<h3 align="left" ><i>- 👋 Hi, I’m @poornatejav</i></h3>
-<h4 align="left" ><i>- 👀 Passion for industry-leading next-generation technology. Looking for Cloud Developer and Engineer positions. </i></h4>
-<h4 align="left" ><i>- 🌱 I’m currently focusing on Golang, Kubernetes, AWS, Terraform, Docker, Jenkins, ArgoCD </i></h4>
+# Teja Vengala
 
-<h5 align="left" ><em>Languages and Tools:</em></h5>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+Backend engineer (4+ years) building high‑performance Go microservices, reliable APIs, and cloud‑native systems.
 
-<h5 align="right"><em>Connect with me</em></h5>
-<p align="right">
-<a href="https://linkedin.com/in/poorna-vengala-251b7b116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorna-vengala-251b7b116" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/poornateja340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="poornateja340" height="30" width="40" /></a>
-</p>
-<!---
-poornatejav/poornatejav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Focus
+- Go microservices · gRPC · API reliability  
+- Observability-first engineering (logs, metrics, traces, postmortems)  
+- Kubernetes · Terraform · AWS  
+
+## Highlights
+- Reduced API latency by ~40% across core services  
+- Migrated inter‑service comms to gRPC/Protobuf (−30% latency/bandwidth)  
+- Built concurrent Go pipelines for nested JSON (−40% processing time)  
+- 99.9% uptime with ELB/AMI provisioning + autoscaling  
+- 30% faster releases via Jenkins CI/CD automation  
+
+## Tech
+![Go](https://img.shields.io/badge/Go-101113?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-101113?style=flat-square&logo=grpc&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-101113?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-101113?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-101113?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-101113?style=flat-square&logo=jenkins&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-101113?style=flat-square&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-101113?style=flat-square&logo=prometheus&logoColor=white)
+
+## Featured
+- KubeSolv — Autonomous Kubernetes intelligence  
+  Portfolio: https://poornatejav.github.io  
+  KubeSolv: https://poornatejav.github.io/kubesolv.html  
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/tejavengala  
+GitHub: https://github.com/poornatejav
