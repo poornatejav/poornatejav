@@ -4,15 +4,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend%20Engineer%20%7C%20Go%20Specialist-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
-<img src="https://img.shields.io/badge/High--Performance%20Microservices%20at%20Scale-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
-<img src="https://img.shields.io/badge/Cloud--Native%20Reliability%20Engineer-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
+<img src="https://img.shields.io/badge/Backend%20Engineering%20%7C%20Go-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
+<img src="https://img.shields.io/badge/High--Performance%20Microservices%20-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
+<img src="https://img.shields.io/badge/Cloud--Native%20Development-0b0f14?style=flat-square&labelColor=0b0f14&color=1a202b" />
 
 <br/>
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-0b0f14?style=flat-square&labelColor=0b0f14&color=0b0f14" />
 <br/>
 
-<img src="https://img.shields.io/badge/TECH%20(FOCUSED)-0b0f14?style=for-the-badge&labelColor=0b0f14&color=1a202b" />
+<img src="https://img.shields.io/badge/TECH-0b0f14?style=for-the-badge&labelColor=0b0f14&color=1a202b" />
 
 <br/>
 
